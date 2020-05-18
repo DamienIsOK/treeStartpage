@@ -111,6 +111,6 @@ input {
     border-bottom: 1px solid #ff8906;
 }
 
-input:focus, textarea:focus, select:focus, button:focus {
+input:focus, textarea:focus, select:focus, button:focus{
     outline: 0;
 }
